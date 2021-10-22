@@ -1,0 +1,524 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Login_Nationwide" this:Login_Nationwide.TimeoutL="10000" this:Login_Nationwide.in_delayShort="1000" this:Login_Nationwide.inFileName="[&quot;&quot;&quot;#29_#402_interconnection_bus_rating_ocpd_labels_cts#180.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#29_#402_interconnection_bus_rating_ocpd_labels_cts#123.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#29_#402_interconnection_bus_rating_ocpd_labels_cts#391.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#29_#402_interconnection_bus_rating_ocpd_labels_cts#783.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#29_#402_interconnection_bus_rating_ocpd_labels_cts#836.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#29_#402_interconnection_bus_rating_ocpd_labels_cts#839.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#29_#402_interconnection_bus_rating_ocpd_labels_cts#983.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#31_#403_subpanel_interior_wiring_breaker_ratings#394.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#31_#403_subpanel_interior_wiring_breaker_ratings#929.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#32_#404_system_grounding_and_bonding_EGC_GEC_groundrod#764.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#32_#404_system_grounding_and_bonding_EGC_GEC_groundrod#319.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#32_#404_system_grounding_and_bonding_EGC_GEC_groundrod#576.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#33_#405_ac_dc_disconnects#910.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#33_#405_ac_dc_disconnects#054.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#42_Sunrun__scan_QR_Code__Partners__provide_photo_207.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#42_Sunrun__scan_QR_Code__Partners__provide_photo_757.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#78_#415_equipment_wideshot_gutter_nonrooftop_conduit#448.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#78_#415_equipment_wideshot_gutter_nonrooftop_conduit#071.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#78_#415_equipment_wideshot_gutter_nonrooftop_conduit#168.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#78_#415_equipment_wideshot_gutter_nonrooftop_conduit#905.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#78_#415_equipment_wideshot_gutter_nonrooftop_conduit#617.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#78_#415_equipment_wideshot_gutter_nonrooftop_conduit#985.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#87_#422_bb_inverter_power_and_comm_wiring#122.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#87_#422_bb_inverter_power_and_comm_wiring#720.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#87_#422_bb_inverter_power_and_comm_wiring#112.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#31_#403_subpanel_interior_wiring_breaker_ratings#147.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#31_#403_subpanel_interior_wiring_breaker_ratings#731.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#31_#403_subpanel_interior_wiring_breaker_ratings#962.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#31_#403_subpanel_interior_wiring_breaker_ratings#404.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#31_#403_subpanel_interior_wiring_breaker_ratings#973.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#31_#403_subpanel_interior_wiring_breaker_ratings#570.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#42_Sunrun__scan_QR_Code__Partners__provide_photo_688.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#42_Sunrun__scan_QR_Code__Partners__provide_photo_239.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#78_#415_equipment_wideshot_gutter_nonrooftop_conduit#653.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#78_#415_equipment_wideshot_gutter_nonrooftop_conduit#223.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#87_#422_bb_inverter_power_and_comm_wiring#736.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#87_#422_bb_inverter_power_and_comm_wiring#264.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#87_#422_bb_inverter_power_and_comm_wiring#778.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#118_#523_setapp_pac_optis_paried_s_ok_country#152.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#118_#523_setapp_pac_optis_paried_s_ok_country#640.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#118_#523_setapp_pac_optis_paried_s_ok_country#972.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#118_#523_setapp_pac_optis_paried_s_ok_country#344.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#118_#523_setapp_pac_optis_paried_s_ok_country#872.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#118_#523_setapp_pac_optis_paried_s_ok_country#170.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#118_#523_setapp_pac_optis_paried_s_ok_country#495.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#118_#523_setapp_pac_optis_paried_s_ok_country#685.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#120_#525_setapp_standby_mode#982.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#120_#525_setapp_standby_mode#293.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#120_#525_setapp_standby_mode#940.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#120_#525_setapp_standby_mode#324.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#133_#601_strdge_optis_paired_1perinverter_vac_vdc_pac#962.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#133_#601_strdge_optis_paired_1perinverter_vac_vdc_pac#246.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#133_#601_strdge_optis_paired_1perinverter_vac_vdc_pac#640.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#133_#601_strdge_optis_paired_1perinverter_vac_vdc_pac#778.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#133_#601_strdge_optis_paired_1perinverter_vac_vdc_pac#922.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#133_#601_strdge_optis_paired_1perinverter_vac_vdc_pac#300.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#133_#601_strdge_optis_paired_1perinverter_vac_vdc_pac#811.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#133_#601_strdge_optis_paired_1perinverter_vac_vdc_pac#255.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#134_#602_strdge_fac_temp#533.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#134_#602_strdge_fac_temp#662.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#134_#602_strdge_fac_temp#952.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#134_#602_strdge_fac_temp#336.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#134_#602_strdge_fac_temp#845.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#134_#602_strdge_fac_temp#263.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#134_#602_strdge_fac_temp#504.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#135_#603_strdge_id_country_screen#962.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#135_#603_strdge_id_country_screen#078.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#135_#603_strdge_id_country_screen#436.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#135_#603_strdge_id_country_screen#745.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#135_#603_strdge_id_country_screen#186.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#135_#603_strdge_id_country_screen#756.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#135_#603_strdge_id_country_screen#103.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#135_#603_strdge_id_country_screen#474.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#136_#604_strdge_s_ok#635.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#136_#604_strdge_s_ok#874.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#1_#201_eoss182.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#1_#201_eoss704.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#28_#401_electrical_ppe#104.jpeg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#119_#524_setapp_status#447.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#119_#524_setapp_status#685.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#119_#524_setapp_status#958.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#119_#524_setapp_status#163.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#119_#524_setapp_status#728.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#119_#524_setapp_status#987.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#119_#524_setapp_status#215.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#119_#524_setapp_status#423.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#155_#623_strdge_standby_mode_enabled#823.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#155_#623_strdge_standby_mode_enabled#071.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#155_#623_strdge_standby_mode_enabled#440.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#155_#623_strdge_standby_mode_enabled#589.png&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#5_#202_sitewalk_stretch_safety#132.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#6_#203_module_serial#030.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#6_#203_module_serial#101.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#12_#302_fall_pro#425.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#12_#302_fall_pro#048.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#13_#303_array_flashing_penetration#948.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#13_#303_array_flashing_penetration#533.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#13_#303_array_flashing_penetration#149.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#15_#305_conduit_penetration_exiting_roof#975.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#17_307_racking_splicing_grounding_wideshot#493.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#17_307_racking_splicing_grounding_wideshot#700.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#17_307_racking_splicing_grounding_wideshot#852.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#17_307_racking_splicing_grounding_wideshot#452.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#19_#309_conduit_support_flashing#239.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#19_#309_conduit_support_flashing#483.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#19_#309_conduit_support_flashing#691.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#19_#309_conduit_support_flashing#053.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#19_#309_conduit_support_flashing#441.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#19_#309_conduit_support_flashing#848.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#20_#310_rooftop_conduit_run#949.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#20_#310_rooftop_conduit_run#260.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#20_#310_rooftop_conduit_run#509.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#20_#310_rooftop_conduit_run#738.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#20_#310_rooftop_conduit_run#950.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#21_#311_j-box_conduit_entries#185.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#21_#311_j-box_conduit_entries#561.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#21_#311_j-box_conduit_entries#786.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#22_#312_module_mfg_model_label050.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#23_#313_clamps_caps_complete_arrays#250.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#23_#313_clamps_caps_complete_arrays#426.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#24_#314_wire_management348.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#24_#314_wire_management404.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#24_#314_wire_management120.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#24_#314_wire_management036.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#25_#315_fall_pro_penetrations_flashed_sealed#622.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#25_#315_fall_pro_penetrations_flashed_sealed#840.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#7_#204_inverter_mlpe_info#968.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#7_#204_inverter_mlpe_info#512.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#7_#204_inverter_mlpe_info#357.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#7_#204_inverter_mlpe_info#114.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#7_#204_inverter_mlpe_info#277.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#27_#316_string_map_optimizer_sheet#209.jpg&quot;&quot;&quot;+&quot; &quot;+&quot;&quot;&quot;#5_#202_sitewalk_stretch_safety#136.jpg&quot;&quot;&quot;]" this:Login_Nationwide.inFolderAddressPath="C:\Users\RPABOT01\OneDrive - HomeEnergy\Documents\Bot 2.0\BlueInvoicesBot\Data\Temp\117R-259LEI" this:Login_Nationwide.TimeoutXS="1000" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:this="clr-namespace:" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <x:Members>
+    <x:Property Name="TimeoutL" Type="InArgument(x:Int32)" />
+    <x:Property Name="in_delayShort" Type="InArgument(x:Int32)" />
+    <x:Property Name="inFileName" Type="InArgument(x:String)" />
+    <x:Property Name="inFolderAddressPath" Type="InArgument(x:String)" />
+    <x:Property Name="TimeoutXS" Type="InArgument(x:Int32)" />
+  </x:Members>
+  <mva:VisualBasic.Settings>
+    <x:Null />
+  </mva:VisualBasic.Settings>
+  <sap:VirtualizedContainerService.HintSize>875,4332</sap:VirtualizedContainerService.HintSize>
+  <sap2010:WorkflowViewState.IdRef>Login_Nationwide_1</sap2010:WorkflowViewState.IdRef>
+  <TextExpression.NamespacesForImplementation>
+    <scg:List x:TypeArguments="x:String" Capacity="28">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+      <x:String>System.Runtime.InteropServices</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Security</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+    </scg:List>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="56">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.Mail</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities.Design</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+    </scg:List>
+  </TextExpression.ReferencesForImplementation>
+  <sap:WorkflowViewStateService.ViewState>
+    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+      <x:Boolean x:Key="ShouldCollapseAll">True</x:Boolean>
+    </scg:Dictionary>
+  </sap:WorkflowViewStateService.ViewState>
+  <Sequence DisplayName="Upload Photos" sap:VirtualizedContainerService.HintSize="648,4267" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:Boolean" Name="ElementExists" />
+      <Variable x:TypeArguments="s:String[]" Name="strArrPhotos" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        <x:Boolean x:Key="IsPinned">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="606,52" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Upload Photos&quot;]" />
+    <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="606,4083" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsPinned">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <TryCatch.Try>
+        <Sequence sap:VirtualizedContainerService.HintSize="568,3852" sap2010:WorkflowViewState.IdRef="Sequence_5">
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              <x:Boolean x:Key="IsPinned">True</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+          <ui:WindowScope ApplicationWindow="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" Window="{x:Null}" DisplayName="Attach Window 'chrome.exe State'" sap:VirtualizedContainerService.HintSize="526,698" sap2010:WorkflowViewState.IdRef="WindowScope_1" InformativeScreenshot="6297ad6f3d7c7f19a7b7a22ec9dd75d2" Selector="&lt;html title='Sunrun Community' /&gt;">
+            <ui:WindowScope.Body>
+              <ActivityAction x:TypeArguments="x:Object">
+                <ActivityAction.Argument>
+                  <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
+                </ActivityAction.Argument>
+                <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="284,512" sap2010:WorkflowViewState.IdRef="Sequence_13">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <ui:Click AlterIfDisabled="{x:Null}" CursorMotionType="{x:Null}" DelayBefore="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DelayMS="2000" DisplayName="Click Upload photos" sap:VirtualizedContainerService.HintSize="242,52" sap2010:WorkflowViewState.IdRef="Click_21" KeyModifiers="None" MouseButton="BTN_LEFT">
+                    <ui:Click.CursorPosition>
+                      <ui:CursorPosition Position="Center">
+                        <ui:CursorPosition.OffsetX>
+                          <InArgument x:TypeArguments="x:Int32" />
+                        </ui:CursorPosition.OffsetX>
+                        <ui:CursorPosition.OffsetY>
+                          <InArgument x:TypeArguments="x:Int32" />
+                        </ui:CursorPosition.OffsetY>
+                      </ui:CursorPosition>
+                    </ui:Click.CursorPosition>
+                    <ui:Click.Target>
+                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="dac892d9-5220-4095-b299-6840639d85dc" InformativeScreenshot="c8e5641b8b7f0347ed1f28453942c15e" Selector="&lt;webctrl tag='INPUT' type='submit' aaname='Upload Photos' parentid='uploadBtnP' /&gt;" TimeoutMS="[TimeoutL]" WaitForReady="COMPLETE" />
+                    </ui:Click.Target>
+                  </ui:Click>
+                  <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="242,52" sap2010:WorkflowViewState.IdRef="LogMessage_13" Level="Info" Message="[&quot;Click on Upload Photos Completed&quot;]" />
+                  <Sequence sap:VirtualizedContainerService.HintSize="242,236" sap2010:WorkflowViewState.IdRef="Sequence_19">
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                        <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                    <ui:Click AlterIfDisabled="{x:Null}" CursorMotionType="{x:Null}" DelayBefore="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DelayMS="2000" DisplayName="Select Choose Files" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="Click_10" KeyModifiers="None" MouseButton="BTN_LEFT">
+                      <ui:Click.CursorPosition>
+                        <ui:CursorPosition Position="Center">
+                          <ui:CursorPosition.OffsetX>
+                            <InArgument x:TypeArguments="x:Int32" />
+                          </ui:CursorPosition.OffsetX>
+                          <ui:CursorPosition.OffsetY>
+                            <InArgument x:TypeArguments="x:Int32" />
+                          </ui:CursorPosition.OffsetY>
+                        </ui:CursorPosition>
+                      </ui:Click.CursorPosition>
+                      <ui:Click.Target>
+                        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="dac892d9-5220-4095-b299-6840639d85dc" InformativeScreenshot="c8e5641b8b7f0347ed1f28453942c15e" Selector="&lt;html url='https://sunruncommunity.force.com/partner/apex/ServiceContract_PhotoUploader?id=*' /&gt;&lt;webctrl tag='INPUT' type='file' id='files' /&gt;" TimeoutMS="[TimeoutL*2]" WaitForReady="COMPLETE" />
+                      </ui:Click.Target>
+                    </ui:Click>
+                    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="LogMessage_10" Level="Info" Message="[&quot;Click on Browse files Selected&quot;]" />
+                  </Sequence>
+                </Sequence>
+              </ActivityAction>
+            </ui:WindowScope.Body>
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                <x:Boolean x:Key="IsPinned">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+          </ui:WindowScope>
+          <Sequence DisplayName="Address Bar" sap:VirtualizedContainerService.HintSize="526,464" sap2010:WorkflowViewState.IdRef="Sequence_30">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                <x:Boolean x:Key="IsPinned">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="334,52" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+              <ui:CommentOut.Body>
+                <Sequence sap:VirtualizedContainerService.HintSize="376,356" sap2010:WorkflowViewState.IdRef="Sequence_37">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <ui:TypeInto AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" ClickBeforeTyping="False" DelayMS="2000" DisplayName="Write Address" EmptyField="True" sap:VirtualizedContainerService.HintSize="334,96" sap2010:WorkflowViewState.IdRef="TypeInto_2" SimulateType="False" Text="[inFolderAddressPath+ &quot;[k(enter)]&quot;]">
+                    <ui:TypeInto.Target>
+                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="38c07b2e-0486-4815-b425-454a4e48575b" Selector="&lt;wnd app='iexplore.exe' cls='#32770' title='Choose File to Upload' /&gt;&lt;wnd ctrlid='1001' cls='ToolbarWindow32' aastate='focusable' title='Address:*' /&gt;" TimeoutMS="[TimeoutL]" WaitForReady="COMPLETE" />
+                    </ui:TypeInto.Target>
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                  </ui:TypeInto>
+                  <Delay Duration="00:00:02" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="Delay_4" />
+                  <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="334,66" sap2010:WorkflowViewState.IdRef="Sequence_36">
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                    <ui:Click AlterIfDisabled="{x:Null}" CursorMotionType="{x:Null}" DelayBefore="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DelayMS="2000" sap:VirtualizedContainerService.HintSize="334,68" sap2010:WorkflowViewState.IdRef="Click_23" KeyModifiers="None" MouseButton="BTN_LEFT">
+                      <ui:Click.CursorPosition>
+                        <ui:CursorPosition Position="Center">
+                          <ui:CursorPosition.OffsetX>
+                            <InArgument x:TypeArguments="x:Int32" />
+                          </ui:CursorPosition.OffsetX>
+                          <ui:CursorPosition.OffsetY>
+                            <InArgument x:TypeArguments="x:Int32" />
+                          </ui:CursorPosition.OffsetY>
+                        </ui:CursorPosition>
+                      </ui:Click.CursorPosition>
+                      <ui:Click.Target>
+                        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="df8fa71a-a082-43e9-b387-4cd14351c5bf" Selector="&lt;wnd app='iexplore.exe' cls='#32770' title='Choose File to Upload' /&gt;&lt;wnd ctrlid='1001' aastate='focusable' cls='ToolbarWindow32' /&gt;" TimeoutMS="[TimeoutL]" WaitForReady="COMPLETE" />
+                      </ui:Click.Target>
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                    </ui:Click>
+                  </Sequence>
+                </Sequence>
+              </ui:CommentOut.Body>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                  <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </ui:CommentOut>
+            <ui:TypeInto AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" ClickBeforeTyping="True" DisplayName="Type Into" EmptyField="True" sap:VirtualizedContainerService.HintSize="334,96" sap2010:WorkflowViewState.IdRef="TypeInto_4" Text="[inFolderAddressPath]">
+              <ui:TypeInto.Target>
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="7d0ae9df-1d0e-417a-b151-02c1575fe437" Selector="&lt;wnd app='iexplore.exe' cls='#32770' title='Choose File to Upload' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' cls='Edit' /&gt;" TimeoutMS="[TimeoutL]" WaitForReady="COMPLETE" />
+              </ui:TypeInto.Target>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </ui:TypeInto>
+            <ui:Click AlterIfDisabled="{x:Null}" CursorMotionType="{x:Null}" DelayBefore="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DelayMS="2000" DisplayName="Click Open Button" sap:VirtualizedContainerService.HintSize="334,52" sap2010:WorkflowViewState.IdRef="Click_26" KeyModifiers="None" MouseButton="BTN_LEFT">
+              <ui:Click.CursorPosition>
+                <ui:CursorPosition Position="Center">
+                  <ui:CursorPosition.OffsetX>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:CursorPosition.OffsetX>
+                  <ui:CursorPosition.OffsetY>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:CursorPosition.OffsetY>
+                </ui:CursorPosition>
+              </ui:Click.CursorPosition>
+              <ui:Click.Target>
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="80860117-9497-46fa-aeca-274a218fa717" InformativeScreenshot="f7e2bcd00314d9bc55899952672099a5" Selector="&lt;wnd app='iexplore.exe' cls='#32770' title='Choose File to Upload' /&gt;&lt;wnd ctrlid='1' title='&amp;amp;Open' cls='Button' /&gt;" TimeoutMS="[TimeoutL]" WaitForReady="COMPLETE" />
+              </ui:Click.Target>
+            </ui:Click>
+            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,52" sap2010:WorkflowViewState.IdRef="LogMessage_15" Level="Info" Message="[&quot;Address bar folder location searched&quot;]" />
+          </Sequence>
+          <Sequence DisplayName="File Name" sap:VirtualizedContainerService.HintSize="526,1182" sap2010:WorkflowViewState.IdRef="Sequence_31">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                <x:Boolean x:Key="IsPinned">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <ui:TypeInto AlterIfDisabled="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" ClickBeforeTyping="True" DisplayName="Type Into" EmptyField="True" sap:VirtualizedContainerService.HintSize="484,96" sap2010:WorkflowViewState.IdRef="TypeInto_3" SimulateType="True" Text="[inFileName]">
+              <ui:TypeInto.Target>
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="7d0ae9df-1d0e-417a-b151-02c1575fe437" Selector="&lt;wnd app='iexplore.exe' cls='#32770' title='Choose File to Upload' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' cls='Edit' /&gt;" TimeoutMS="[TimeoutL]" WaitForReady="COMPLETE" />
+              </ui:TypeInto.Target>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </ui:TypeInto>
+            <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="484,52" sap2010:WorkflowViewState.IdRef="CommentOut_2">
+              <ui:CommentOut.Body>
+                <Sequence DisplayName="Ignored Activities" sap2010:WorkflowViewState.IdRef="Sequence_38">
+                  <ui:SetValue AlterIfDisabled="{x:Null}" ContinueOnError="{x:Null}" DelayBefore="{x:Null}" DelayAfter="2000" DisplayName="File name" sap:VirtualizedContainerService.HintSize="334,134" sap2010:WorkflowViewState.IdRef="SetValue_4" Text="[inFileName]">
+                    <ui:SetValue.Target>
+                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="3a163d76-0256-4854-bbd4-e21bbd7878e7" InformativeScreenshot="5c671b73bb5585c3f05b5cfdfbe3495e" Selector="&lt;wnd app='iexplore.exe' cls='#32770' title='Choose File to Upload' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' cls='Edit' /&gt;" TimeoutMS="[TimeoutL]" WaitForReady="COMPLETE" />
+                    </ui:SetValue.Target>
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                        <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                  </ui:SetValue>
+                </Sequence>
+              </ui:CommentOut.Body>
+            </ui:CommentOut>
+            <Delay Duration="00:00:02" sap:VirtualizedContainerService.HintSize="484,22" sap2010:WorkflowViewState.IdRef="Delay_5" />
+            <ui:Click AlterIfDisabled="{x:Null}" CursorMotionType="{x:Null}" DelayBefore="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DelayMS="2000" DisplayName="Click Open Button" sap:VirtualizedContainerService.HintSize="484,52" sap2010:WorkflowViewState.IdRef="Click_24" KeyModifiers="None" MouseButton="BTN_LEFT">
+              <ui:Click.CursorPosition>
+                <ui:CursorPosition Position="Center">
+                  <ui:CursorPosition.OffsetX>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:CursorPosition.OffsetX>
+                  <ui:CursorPosition.OffsetY>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:CursorPosition.OffsetY>
+                </ui:CursorPosition>
+              </ui:Click.CursorPosition>
+              <ui:Click.Target>
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="80860117-9497-46fa-aeca-274a218fa717" InformativeScreenshot="f7e2bcd00314d9bc55899952672099a5" Selector="&lt;wnd app='iexplore.exe' cls='#32770' title='Choose File to Upload' /&gt;&lt;wnd ctrlid='1' title='&amp;amp;Open' cls='Button' /&gt;" TimeoutMS="[TimeoutL]" WaitForReady="COMPLETE" />
+              </ui:Click.Target>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                  <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </ui:Click>
+            <ui:UiElementExists DisplayName="The File Already Selected popup" Exists="[ElementExists]" sap:VirtualizedContainerService.HintSize="484,106" sap2010:WorkflowViewState.IdRef="UiElementExists_20">
+              <ui:UiElementExists.Target>
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="4ecaa751-d164-4506-b200-657b6c2915ac" InformativeScreenshot="16e787d8f41d05c092e0efcb79f24c5d" Selector="&lt;wnd app='iexplore.exe' cls='#32770' title='Message from webpage' /&gt;" TimeoutMS="[TimeoutL]" WaitForReady="COMPLETE" />
+              </ui:UiElementExists.Target>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </ui:UiElementExists>
+            <If Condition="[ElementExists]" sap:VirtualizedContainerService.HintSize="484,470" sap2010:WorkflowViewState.IdRef="If_1">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <If.Then>
+                <Sequence sap:VirtualizedContainerService.HintSize="376,290" sap2010:WorkflowViewState.IdRef="Sequence_48">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <ui:Click AlterIfDisabled="{x:Null}" CursorMotionType="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click Ok" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="Click_27" KeyModifiers="None" MouseButton="BTN_LEFT" SimulateClick="True">
+                    <ui:Click.CursorPosition>
+                      <ui:CursorPosition Position="Center">
+                        <ui:CursorPosition.OffsetX>
+                          <InArgument x:TypeArguments="x:Int32" />
+                        </ui:CursorPosition.OffsetX>
+                        <ui:CursorPosition.OffsetY>
+                          <InArgument x:TypeArguments="x:Int32" />
+                        </ui:CursorPosition.OffsetY>
+                      </ui:CursorPosition>
+                    </ui:Click.CursorPosition>
+                    <ui:Click.Target>
+                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="119114d2-cf7c-4c0d-a058-f820d2596c00" InformativeScreenshot="e4211831c712eca1228445c333670961" Selector="&lt;wnd app='iexplore.exe' cls='#32770' title='Message from webpage' /&gt;&lt;wnd ctrlid='2' title='OK' cls='Button' aaname='OK' /&gt;" TimeoutMS="[TimeoutL]" WaitForReady="COMPLETE" />
+                    </ui:Click.Target>
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                  </ui:Click>
+                  <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="334,52" sap2010:WorkflowViewState.IdRef="CommentOut_10">
+                    <ui:CommentOut.Body>
+                      <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,198" sap2010:WorkflowViewState.IdRef="Sequence_49">
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                            <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                        <ui:Click AlterIfDisabled="{x:Null}" CursorMotionType="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click 'push button  Close'" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="Click_28" KeyModifiers="None" MouseButton="BTN_LEFT">
+                          <ui:Click.CursorPosition>
+                            <ui:CursorPosition Position="Center">
+                              <ui:CursorPosition.OffsetX>
+                                <InArgument x:TypeArguments="x:Int32" />
+                              </ui:CursorPosition.OffsetX>
+                              <ui:CursorPosition.OffsetY>
+                                <InArgument x:TypeArguments="x:Int32" />
+                              </ui:CursorPosition.OffsetY>
+                            </ui:CursorPosition>
+                          </ui:Click.CursorPosition>
+                          <ui:Click.Target>
+                            <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="1c794d9b-9e61-42b1-be5b-6affb7caa0c6" InformativeScreenshot="daed975df35428b1a2c4ecfe2dd8ff26" Selector="&lt;wnd app='iexplore.exe' cls='#32770' title='Message from webpage' /&gt;&lt;ctrl name='Close' role='push button' text='Close' idx='1' /&gt;">
+                              <ui:Target.TimeoutMS>
+                                <InArgument x:TypeArguments="x:Int32" />
+                              </ui:Target.TimeoutMS>
+                              <ui:Target.WaitForReady>
+                                <InArgument x:TypeArguments="ui:WaitForReady" />
+                              </ui:Target.WaitForReady>
+                            </ui:Target>
+                          </ui:Click.Target>
+                          <sap:WorkflowViewStateService.ViewState>
+                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                              <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                            </scg:Dictionary>
+                          </sap:WorkflowViewStateService.ViewState>
+                        </ui:Click>
+                      </Sequence>
+                    </ui:CommentOut.Body>
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                        <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                  </ui:CommentOut>
+                </Sequence>
+              </If.Then>
+            </If>
+            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="484,52" sap2010:WorkflowViewState.IdRef="LogMessage_16" Level="Info" Message="[&quot;File Names added to the uopload popup&quot;]" />
+          </Sequence>
+          <Sequence sap:VirtualizedContainerService.HintSize="526,290" sap2010:WorkflowViewState.IdRef="Sequence_21">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                <x:Boolean x:Key="IsPinned">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <ui:Click AlterIfDisabled="{x:Null}" CursorMotionType="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DelayBefore="2000" DelayMS="2000" DisplayName="Click Upload Photos Button" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="Click_16" KeyModifiers="None" MouseButton="BTN_LEFT">
+              <ui:Click.CursorPosition>
+                <ui:CursorPosition Position="Center">
+                  <ui:CursorPosition.OffsetX>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:CursorPosition.OffsetX>
+                  <ui:CursorPosition.OffsetY>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:CursorPosition.OffsetY>
+                </ui:CursorPosition>
+              </ui:Click.CursorPosition>
+              <ui:Click.Target>
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="80860117-9497-46fa-aeca-274a218fa717" InformativeScreenshot="f7e2bcd00314d9bc55899952672099a5" Selector="&lt;html url='https://sunruncommunity.force.com/partner/apex/ServiceContract_PhotoUploader?id=*' /&gt;&lt;webctrl id='uploadButton' tag='BUTTON' innertext='Upload Photos' /&gt;" TimeoutMS="[TimeoutL]" WaitForReady="COMPLETE" />
+              </ui:Click.Target>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </ui:Click>
+            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,52" sap2010:WorkflowViewState.IdRef="LogMessage_14" Level="Info" Message="[&quot;Click Upload photos button done&quot;]" />
+          </Sequence>
+          <ui:RetryScope DisplayName="Retry Scope" sap:VirtualizedContainerService.HintSize="526,539" sap2010:WorkflowViewState.IdRef="RetryScope_3" NumberOfRetries="3">
+            <ui:RetryScope.ActivityBody>
+              <ActivityAction>
+                <Sequence sap:VirtualizedContainerService.HintSize="376,247" sap2010:WorkflowViewState.IdRef="Sequence_35">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,93" sap2010:WorkflowViewState.IdRef="LogMessage_18" Level="Info" Message="[&quot;Waiting for upload Complete&quot;]">
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                  </ui:LogMessage>
+                  <Delay Duration="00:00:20" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="Delay_6" />
+                </Sequence>
+              </ActivityAction>
+            </ui:RetryScope.ActivityBody>
+            <ui:RetryScope.Condition>
+              <ActivityFunc x:TypeArguments="x:Boolean">
+                <ui:UiElementExists DisplayName="Upload Completed" Exists="[ElementExists]" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="UiElementExists_19">
+                  <ui:UiElementExists.Target>
+                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="7a3517a7-d369-46ca-8314-5a8ffc20df23" InformativeScreenshot="fc2db4833daa25e9e513e04d6ef440ca" Selector="&lt;html url='https://sunruncommunity.force.com/partner/apex/ServiceContract_PhotoUploader?id=*' /&gt;&lt;webctrl id='status' tag='SPAN' innertext='Upload completed.' /&gt;" TimeoutMS="20000" WaitForReady="COMPLETE" />
+                  </ui:UiElementExists.Target>
+                </ui:UiElementExists>
+              </ActivityFunc>
+            </ui:RetryScope.Condition>
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                <x:Boolean x:Key="IsPinned">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+          </ui:RetryScope>
+          <Sequence sap:VirtualizedContainerService.HintSize="526,296" sap2010:WorkflowViewState.IdRef="Sequence_34">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                <x:Boolean x:Key="IsPinned">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <ui:Click AlterIfDisabled="{x:Null}" CursorMotionType="{x:Null}" DelayBefore="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateClick="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click Close" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="Click_25" KeyModifiers="None" MouseButton="BTN_LEFT">
+              <ui:Click.CursorPosition>
+                <ui:CursorPosition Position="Center">
+                  <ui:CursorPosition.OffsetX>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:CursorPosition.OffsetX>
+                  <ui:CursorPosition.OffsetY>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:CursorPosition.OffsetY>
+                </ui:CursorPosition>
+              </ui:Click.CursorPosition>
+              <ui:Click.Target>
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="80860117-9497-46fa-aeca-274a218fa717" InformativeScreenshot="f7e2bcd00314d9bc55899952672099a5" Selector="&lt;html url='https://sunruncommunity.force.com/partner/apex/ServiceContract_PhotoUploader?id=*' /&gt;&lt;webctrl tag='BUTTON' innertext='Close' /&gt;" TimeoutMS="[TimeoutXS]" WaitForReady="INTERACTIVE" />
+              </ui:Click.Target>
+            </ui:Click>
+            <Delay Duration="00:00:10" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="Delay_7" />
+            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="LogMessage_17" Level="Info" Message="[&quot;Click Close button done&quot;]" />
+          </Sequence>
+          <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="434,51" sap2010:WorkflowViewState.IdRef="LogMessage_7" Level="Info" Message="[&quot;Photos uploaded successfully&quot;]" />
+        </Sequence>
+      </TryCatch.Try>
+      <TryCatch.Catches>
+        <Catch x:TypeArguments="s:Exception" sap:VirtualizedContainerService.HintSize="480,21" sap2010:WorkflowViewState.IdRef="Catch`1_2">
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+          <ActivityAction x:TypeArguments="s:Exception">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="s:Exception" Name="exception" />
+            </ActivityAction.Argument>
+            <Throw Exception="[New Exception(&quot;Unable to Upload Photos. Exception message: &quot;+exception.Message)]" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="Throw_1" />
+          </ActivityAction>
+        </Catch>
+      </TryCatch.Catches>
+    </TryCatch>
+  </Sequence>
+</Activity>
