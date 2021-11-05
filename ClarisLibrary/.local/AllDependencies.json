@@ -1575,7 +1575,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.6.1/win7-x86": {
+    ".NETFramework,Version=v4.6.1/win10-x64": {
       "ClosedXML/0.87.1": {
         "type": "package",
         "dependencies": {
@@ -5020,15 +5020,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\navya\\.nuget\\packages\\": {}
+    "C:\\Users\\MyDev\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "ClarisLibrary",
       "projectName": "ClarisLibrary",
-      "projectPath": "C:\\Users\\navya\\Pictures\\Bot 2.0 08-14\\Bot 2.0\\ClarisLibrary\\.local",
-      "packagesPath": "C:\\Users\\navya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navya\\Pictures\\Bot 2.0 08-14\\Bot 2.0\\ClarisLibrary\\.local"
+      "projectPath": "C:\\Users\\MyDev\\Documents\\GitHub\\Libraries\\ClarisLibrary\\.local",
+      "packagesPath": "C:\\Users\\MyDev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MyDev\\Documents\\GitHub\\Libraries\\ClarisLibrary\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5054,7 +5054,12 @@
             "version": "[21.4.4, 21.4.4]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\navya\\AppData\\Local\\UiPath\\app-21.4.4\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\MyDev\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+      }
+    },
+    "runtimes": {
+      "win10-x64": {
+        "#import": []
       }
     }
   }

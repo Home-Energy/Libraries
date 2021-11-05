@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x59dtvCVcnSi4OryzyKticaMc3AbN+2wNcu73kC3AGgqg8H0Avf7TcHukRVl2+Lh89b2nmdr553+Ufy94Uq4uw==",
+  "dgSpecHash": "sTSpQ/xcz0LJZbiahVNuPSU/kmWY9h9CRMPiCR2eeYXgDbgRmxrIDVqdiazwCFhkbXIQZrEN+kXW9DRswSQCCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MyDev\\Documents\\GitHub\\Test_Repo\\Bot 2.0\\SunrunLibrary\\.local\\",
+  "projectFilePath": "C:\\Users\\MyDev\\Documents\\GitHub\\Libraries\\SunrunLibrary\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\MyDev\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\MyDev\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

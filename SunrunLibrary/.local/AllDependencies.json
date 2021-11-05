@@ -5026,9 +5026,9 @@
     "restore": {
       "projectUniqueName": "SunrunLibrary",
       "projectName": "SunrunLibrary",
-      "projectPath": "C:\\Users\\MyDev\\Documents\\GitHub\\Test_Repo\\Bot 2.0\\SunrunLibrary\\.local",
+      "projectPath": "C:\\Users\\MyDev\\Documents\\GitHub\\Libraries\\SunrunLibrary\\.local",
       "packagesPath": "C:\\Users\\MyDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MyDev\\Documents\\GitHub\\Test_Repo\\Bot 2.0\\SunrunLibrary\\.local"
+      "outputPath": "C:\\Users\\MyDev\\Documents\\GitHub\\Libraries\\SunrunLibrary\\.local"
     },
     "frameworks": {
       "net461": {
